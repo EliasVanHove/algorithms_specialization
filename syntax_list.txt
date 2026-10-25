@@ -1,0 +1,9 @@
+C++ syntax:
+
+-text manipulation
+
+    -searching
+    string.rfind(' ')
+
+    -indexing
+    string.subtract('10')
