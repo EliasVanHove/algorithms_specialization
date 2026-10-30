@@ -16,6 +16,10 @@ std::pair<BigNum, BigNum> split_number(const BigNum& number_vector, int split);
 
 BigNum karatsuba(const BigNum& n1, const BigNum& n2);
 
+BigNum add(BigNum n1, BigNum n2);
+
+BigNum multiply(BigNum n, int number);
+
 
 
 #endif
